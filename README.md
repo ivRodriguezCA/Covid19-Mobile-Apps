@@ -20,7 +20,7 @@ The full list of applications is [here](https://en.wikipedia.org/wiki/COVID-19_a
 | North Macedonia | StopKorona!           | 1.0.1          | [link](mk.gov.koronavirus.stop/1.0.1/README.md)        |
 | Pakistan        | COVID-19 PK           | 1.5            | [link](com.govpk.covid19/1.5/README.md)                |
 | Poland          | ProteGO Safe          | 3.0.1          | [link](pl.gov.mc.protegosafe/3.0.1/README.md)          |
-| Saudi Arabia    | Tawakkalna            | 1.2            | [link](sa.gov.nic.tawakkalna/1.2/README.md)            |
+| Saudi Arabia    | Tawakkalna            | 1.2            | [link](sa.gov.nic.tawakkalna/1.2.0/README.md)          |
 | Singapore       | TraceTogether         | 1.6            | [link](sg.gov.tech.bluetrace/1.6/README.md)            |
 | South Korea     | Self-Diagnosis        | 3.0.1          | [link](com.mohw.coronakcdc/3.0.1/README.md)            |
 | UAE             | Covid-19 UAE          | 1.0.3          | [link](com.mohap-Covid-19-UAE/1.0.3/README.md)         |
