@@ -9,6 +9,7 @@ The full list of applications is [here](https://en.wikipedia.org/wiki/COVID-19_a
 | Country         | App Name              | Latest Version* | Details                                                |
 |-----------------|-----------------------|-----------------|--------------------------------------------------------|
 | Australia       | Coronavirus           | 1.0.3           | [link](au.gov.health.covid19/1.0.3/README.md)          |
+| Canada          | ABTraceTogether       | 1.0.0           | [link](ca.ab.gov.ahs.contacttracing/1.0.0/README.md)   |
 | Colombia        | CoronApp-Colombia     | 1.28.9          | [link](co.gov.ins.coronapp/1.28.9/README.md)           |
 | Ghana           | GH COVID-19 Tracker   | 1.0.10          | [link](com.mov.gh/1.0.10/README.md)                    |
 | Hong Kong       | StayHomeSafe App      | 1.0.7           | [link](hk.gov.ogcio.EQuaratine/1.0.7/README.md)        |
