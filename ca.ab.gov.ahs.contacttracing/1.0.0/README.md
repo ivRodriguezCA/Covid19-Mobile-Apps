@@ -12,10 +12,14 @@
 <string>ABTraceTogether exchanges Bluetooth signals with nearby phones running the same app. These signals contain an anonymised ID, which is encrypted and changes continually to ensure your privacy.</string>
 ```
 
-## Media
+## PhotoLibrary
 ```xml
 <key>NSPhotoLibraryUsageDescription</key>
 <string>Grant ABTraceTogether permissions to access your photo library if you would like to upload a photo as part of a support request</string>
+```
+
+## Camera
+```xml
 <key>NSCameraUsageDescription</key>
 <string>Grant ABTraceTogether permissions to access your camera if you would like to upload a photo as part of a support request</string>
 ```
